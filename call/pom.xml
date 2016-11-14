@@ -31,7 +31,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>libs/</classpathPrefix>
-                            <mainClass>com.netcraker.CallingHello</mainClass>
+                            <mainClass>client.CallingHello</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

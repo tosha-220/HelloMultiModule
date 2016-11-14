@@ -1,7 +1,7 @@
-package com.netcraker;
+package server;
 
 public class Hello {
-    public void printHello(){
+    public void printHello() {
         System.out.println("Hello");
     }
 }
